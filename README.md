@@ -7,7 +7,7 @@ It showcases the software’s billing and management features with a professiona
 
 ## 🌐 Live Demo
 
-[🔗 Click here to view the live demo](#)  
+[🔗 https://ayush712gupta.github.io/CafeBillPro/](#)  
 (*You can replace this link with your hosted site, e.g., GitHub Pages or Netlify.*)
 
 ---
